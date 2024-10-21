@@ -1,14 +1,14 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/131.0" version="24.7.17">
   <diagram name="Страница — 1" id="X-kzBbZVKX_LICPjZ_td">
-    <mxGraphModel dx="1059" dy="623" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1444" dy="849" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="VBmdsLyCv_HSWNaAxPap-1" value="Клиент" style="swimlane;html=1;startSize=20;fontStyle=0;collapsible=0;horizontal=0;swimlaneLine=1;swimlaneFillColor=#ffffff;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="120" y="10" width="1210" height="50" as="geometry" />
+          <mxGeometry x="120" y="10" width="1240" height="50" as="geometry" />
         </mxCell>
         <mxCell id="VBmdsLyCv_HSWNaAxPap-3" value="Отель" style="swimlane;html=1;startSize=20;fontStyle=0;collapsible=0;horizontal=0;swimlaneLine=1;swimlaneFillColor=#ffffff;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="120" y="840" width="1370" height="50" as="geometry" />
+          <mxGeometry x="120" y="840" width="1240" height="50" as="geometry" />
         </mxCell>
         <mxCell id="VBmdsLyCv_HSWNaAxPap-18" value="" style="edgeStyle=elbowEdgeStyle;fontSize=12;html=1;endFill=0;startFill=0;endSize=6;startSize=6;dashed=1;dashPattern=1 4;endArrow=openThin;startArrow=none;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="VBmdsLyCv_HSWNaAxPap-41">
           <mxGeometry width="160" relative="1" as="geometry">
@@ -20,7 +20,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="VBmdsLyCv_HSWNaAxPap-36" value="Система бронирования" style="swimlane;html=1;startSize=20;fontStyle=0;collapsible=0;horizontal=0;swimlaneLine=1;swimlaneFillColor=#ffffff;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="120" y="140" width="1250" height="640" as="geometry" />
+          <mxGeometry x="120" y="140" width="1240" height="640" as="geometry" />
         </mxCell>
         <mxCell id="VBmdsLyCv_HSWNaAxPap-37" value="&lt;div&gt;Поступление обращения&lt;/div&gt;&lt;div&gt;клиента&lt;/div&gt;" style="points=[[0.145,0.145,0],[0.5,0,0],[0.855,0.145,0],[1,0.5,0],[0.855,0.855,0],[0.5,1,0],[0.145,0.855,0],[0,0.5,0]];shape=mxgraph.bpmn.event;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=ellipsePerimeter;outlineConnect=0;aspect=fixed;outline=standard;symbol=general;" vertex="1" parent="VBmdsLyCv_HSWNaAxPap-36">
           <mxGeometry x="100" y="30" width="40" height="40" as="geometry" />
